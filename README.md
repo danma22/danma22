@@ -10,7 +10,7 @@ I'm Daniel. I want to learn how to use programming in my life and community. I'v
 
 #
 
-<img style="border-radius:20px;box-shadow: 15px -8px rgba(0,0,0,0.12);" align="right" alt="Coding" width="320" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fab1db9c-54ef-4cac-ae6a-e68da64c5331/dgaw8zr-30e25e18-e021-4bbf-bffb-192fabf626e7.png/v1/fill/w_894,h_894,q_70,strp/explorer_2___cat_tale_by_gumori_dgaw8zr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2ZhYjFkYjljLTU0ZWYtNGNhYy1hZTZhLWU2OGRhNjRjNTMzMVwvZGdhdzh6ci0zMGUyNWUxOC1lMDIxLTRiYmYtYmZmYi0xOTJmYWJmNjI2ZTcucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PeHYKoEEWZ7bS1IgXFbPKFpxHpv3hB1uGOwbsuATX28">
+<img style="border-radius:20px;box-shadow: 15px -8px rgba(0,0,0,0.12);" align="right" alt="Coding" width="280" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/fab1db9c-54ef-4cac-ae6a-e68da64c5331/dgaw8zr-30e25e18-e021-4bbf-bffb-192fabf626e7.png/v1/fill/w_894,h_894,q_70,strp/explorer_2___cat_tale_by_gumori_dgaw8zr-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTAyNCIsInBhdGgiOiJcL2ZcL2ZhYjFkYjljLTU0ZWYtNGNhYy1hZTZhLWU2OGRhNjRjNTMzMVwvZGdhdzh6ci0zMGUyNWUxOC1lMDIxLTRiYmYtYmZmYi0xOTJmYWJmNjI2ZTcucG5nIiwid2lkdGgiOiI8PTEwMjQifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.PeHYKoEEWZ7bS1IgXFbPKFpxHpv3hB1uGOwbsuATX28">
 
 - 🔨 I’m currently working on **Domotic house model**
 
