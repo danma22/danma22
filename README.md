@@ -29,7 +29,6 @@ Hello, I'm Daniel, a junior developer, and I'm working on growing professionally
 
 ### 🧰 Herramientas / Tools
 
-<<<<<<< HEAD
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
