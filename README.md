@@ -19,7 +19,6 @@ Hello, I'm Daniel, a junior developer, and I'm working on growing professionally
 
 - 📡 Contáctame / Contact me:  **d.macias.estrada@outlook-.com**
 
-<<<<<<< HEAD
 - 💬 **Los desarrolladores ahora no hacen más que codificar para grandes empresas , pero de lo que se trata es de crear algo para nosotros, para nuestra gente**
 
 <h3 align="left">Redes / Network:</h3>
